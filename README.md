@@ -7,7 +7,7 @@
 
 ### Files used
 
-* [Houing Rental Analysis File](san_francisco_housing.ipynb) : notebook is used to visualize and analyze the real-estate data
+* [Houing Rental Analysis Starter Code](san_francisco_housing.ipynb) : notebook is used to visualize and analyze the real-estate data
 
 * [`neighbourhoods_coordinates` CSV File](Resources/neighbourhoods_coordinates.csv)
 
@@ -31,15 +31,22 @@ Below are the screenshots of interactive Visualizations that we created during o
 
 ![Bar chart for Housing Units per Year.](Images/2-Housing_Unit_by_Year.png)
 
+-- Showing gradual increase in Housing Units over the years.
+
 ##### Plot for Average Sale Prices per Square Foot
 
 ![Line Chart for Average Sale Prices per Square Foot & Gross Rent.](Images/1-avg-sale-px-sq-foot-gross-rent.png)
 
+-- Showing the trend of Average Sales Prices per Square foot and Gross rent over the years.
 
 ##### Plot for Average Sale Prices by Neighbourhood
 
 ![Line Chart for Average Sale Prices per Square Foot & Gross Rent by Neighborhood.](Images/3-pricing-info-by-neighborhood.png)
 
+-- Showing the trend of Average Sales Prices per Square foot and Gross rent **by Neighborhood** over the years.
+
 ##### Neighborhood Map
 
 ![An Interactive Neighborhood map of San Fransisco showing Average Sale Prices per Square Foot & Gross Rent by Neighborhood.](Images/4-Geoviews-plot.png)
+
+-- interactive visualizations with hvPlot and GeoViews showing geospatial relationships in the data.
