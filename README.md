@@ -7,7 +7,7 @@
 
 ### Files used
 
-* [Houing Rental Analysis Starter Code](san_francisco_housing.ipynb) : notebook is used to visualize and analyze the real-estate data
+* [Houing Rental Analysis File](san_francisco_housing.ipynb) : notebook is used to visualize and analyze the real-estate data
 
 * [`neighbourhoods_coordinates` CSV File](Resources/neighbourhoods_coordinates.csv)
 
