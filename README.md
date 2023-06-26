@@ -29,24 +29,24 @@ Below are the screenshots of interactive Visualizations that we created during o
 
 ##### Plot for Housing Units per Year
 
-![Bar chart for Housing Units per Year.](Images/2-Housing_Unit_by_Year.png)
+![1. Bar chart for Housing Units per Year.](Images/2-Housing_Unit_by_Year.png)
 
 -- Showing gradual increase in Housing Units over the years.
 
 ##### Plot for Average Sale Prices per Square Foot
 
-![Line Chart for Average Sale Prices per Square Foot & Gross Rent.](Images/1-avg-sale-px-sq-foot-gross-rent.png)
+![2. Line Chart for Average Sale Prices per Square Foot & Gross Rent.](Images/1-avg-sale-px-sq-foot-gross-rent.png)
 
 -- Showing the trend of Average Sales Prices per Square foot and Gross rent over the years.
 
 ##### Plot for Average Sale Prices by Neighbourhood
 
-![Line Chart for Average Sale Prices per Square Foot & Gross Rent by Neighborhood.](Images/3-pricing-info-by-neighborhood.png)
+![3. Line Chart for Average Sale Prices per Square Foot & Gross Rent by Neighborhood.](Images/3-pricing-info-by-neighborhood.png)
 
 -- Showing the trend of Average Sales Prices per Square foot and Gross rent **by Neighborhood** over the years.
 
 ##### Neighborhood Map
 
-![An Interactive Neighborhood map of San Fransisco showing Average Sale Prices per Square Foot & Gross Rent by Neighborhood.](Images/4-Geoviews-plot.png)
+![4. An Interactive Neighborhood map of San Fransisco showing Average Sale Prices per Square Foot & Gross Rent by Neighborhood.](Images/4-Geoviews-plot.png)
 
 -- interactive visualizations with hvPlot and GeoViews showing geospatial relationships in the data.
