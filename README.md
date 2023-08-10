@@ -7,7 +7,7 @@ Scenario: **Proptech** company is planning it's one-click service, an instant se
 
 ### Files
 
-* [Houing Rental Analysis Starter Code](san_francisco_housing.ipynb) 
+* [Houing Rental Analysis](san_francisco_housing.ipynb) 
 
 * [`neighbourhoods_coordinates` CSV File](Resources/neighbourhoods_coordinates.csv)
 
