@@ -7,7 +7,7 @@ Scenario: **Proptech** company is planning it's one-click service, an instant se
 
 ### Files
 
-* [Houing Rental Analysis Starter Code][_here_](https://github.com/UpadhyayShweta/Housing_Rental_Analysis/blob/main/san_francisco_housing.ipynb) : notebook is used to visualize and analyze the real-estate data
+* [Houing Rental Analysis Starter Code](san_francisco_housing.ipynb) 
 
 * [`neighbourhoods_coordinates` CSV File](Resources/neighbourhoods_coordinates.csv)
 
